@@ -62,6 +62,5 @@
 
 ###
 
-<h3 data-importer="text" align="left">🔥  Estadísticas :</h3>
 
 
